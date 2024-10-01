@@ -47,6 +47,7 @@ The data comes from the National Transportation Safety Board (NTSB) and spans fr
     - Used normalization techniques to evaluate how accident causes and severity are distributed across different aircraft makes, ensuring that the analysis accounts for variations in usage and other factors.
 
 ### Visualizations:
+For my visualizations in Tableau here is the link  to the dashboard https://public.tableau.com/app/profile/michelle.anyango/viz/AircraftAnaysis/FINALDASHBOARD?publish=yes
 1. **Accident Frequency by Aircraft Model**:
    - This graph shows the number of accidents by model, helping identify which aircraft models are more prone to incidents.
 
