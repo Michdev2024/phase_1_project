@@ -1,4 +1,3 @@
-
 # Aircraft Safety Analysis for Business Decisions
 
 ## Overview
@@ -15,7 +14,7 @@ As the company plans to enter the aviation market, understanding the risks assoc
 ## Data Understanding and Analysis
 
 ### Data Source
-The data comes from the National Transportation Safety Board (NTSB) and spans from 1962 to 2023. It includes detailed records of civil aviation accidents and select incidents.
+The dataset is sourced from the National Transportation Safety Board (NTSB) and covers the period from 1962 to 2023. It contains comprehensive records of civil aviation accidents as well as select incidents.
 
 ### Key Data Fields:
 - **Event.Id**: Unique accident identifier.
@@ -35,7 +34,7 @@ The data comes from the National Transportation Safety Board (NTSB) and spans fr
 ## Summary of Findings and Visualizations
 
 - **Analyzed Accident Severity and Uninjured Passengers by Aircraft Make**:
-    - Examined the severity of accidents and the number of uninjured passengers across different aircraft makes to identify safety trends.
+    - Analyzed the severity of accidents and the number of uninjured passengers across various aircraft models to uncover safety trends.
   
 - **Calculated the Ratio of Fatalities to Aircraft Make**:
     - Determined the ratio of fatalities for each aircraft make to understand which aircraft have higher or lower risks.
@@ -44,12 +43,12 @@ The data comes from the National Transportation Safety Board (NTSB) and spans fr
     - Ranked the top 10 aircraft makes based on the frequency of accidents, providing insight into which models are most commonly involved.
   
 - **Applied Normalization Techniques to Assess Distribution Errors**:
-    - Used normalization techniques to evaluate how accident causes and severity are distributed across different aircraft makes, ensuring that the analysis accounts for variations in usage and other factors.
+    - Applied normalization techniques to assess the distribution of accident causes and severity across different aircraft models, ensuring the analysis accounts for variations in usage and other influencing factors.
 
 ### Visualizations:
 
 1. **Accident Frequency by Aircraft Model**:
-   - This graph shows the number of accidents by model, helping identify which aircraft models are more prone to incidents.
+   - This graph displays the number of accidents per model, providing insights into which aircraft models are more susceptible to incidents
 
 2. **Severity of Injuries Across Aircraft Models**:
    - A visual comparison of injury severity for different aircraft models, highlighting those with fewer fatal or serious injuries.
@@ -57,7 +56,7 @@ The data comes from the National Transportation Safety Board (NTSB) and spans fr
 3. **Weather Condition Impact on Accident Rates**:
    - This visualization shows how different weather conditions affect accident rates, revealing patterns that may influence safety decisions.
      
- For my visualizations in Tableau here is the link  to the dashboard 
+ My visualizations in Tableau link  to the dashboard 
 https://public.tableau.com/app/profile/michelle.anyango/viz/AircraftAnaysisPhase1/AircraftSafetyRiskAnalysis?publish=yes
 
 ## Conclusion
