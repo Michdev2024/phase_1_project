@@ -58,8 +58,7 @@ The data comes from the National Transportation Safety Board (NTSB) and spans fr
    - This visualization shows how different weather conditions affect accident rates, revealing patterns that may influence safety decisions.
      
  For my visualizations in Tableau here is the link  to the dashboard 
- https://public.tableau.com/app/profile/michelle.anyango/viz/AircraftAnaysis/FINALDASHBOARD? 
- publish=yes
+https://public.tableau.com/app/profile/michelle.anyango/viz/AircraftAnaysisPhase1/AircraftSafetyRiskAnalysis?publish=yes
 
 ## Conclusion
 
